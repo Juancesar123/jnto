@@ -1,0 +1,212 @@
+[
+    {
+        "region" : "Hokkaido",
+        "id" : "hokkaido",
+        "isActive": false,
+        "prefectures":[{
+            "name" : "hokkaido"
+        }]
+    },
+    {
+        "region" : "Tohoku",
+        "id" : "tohoku",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "aomori"
+            },
+            {
+                "name" : "akita"
+            },
+            {
+                "name" : "iwate"
+            },
+            {
+                "name" : "yamagata"
+            },
+            {
+                "name" : "miyagi"
+            },
+            {
+                "name" : "fukushima"
+            }
+        ]
+    },
+    {
+        "region" : "Hokuriku Shinetsu",
+        "id" : "hokuriku",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "niigata"
+            },
+            {
+                "name" : "toyama"
+            },
+            {
+                "name" : "ishikawa"
+            },
+            {
+                "name" : "fukui"
+            },
+            {
+                "name" : "nagano"
+            }
+        ]
+    },
+    {
+        "region" : "Chubu",
+        "id" : "chubu",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "gifu"
+            },
+            {
+                "name" : "yamanashi"
+            },
+            {
+                "name" : "shizuoka"
+            },
+            {
+                "name" : "aichi"
+            },
+            {
+                "name" : "mie"
+            }
+        ]
+    },
+    {
+        "region" : "Kanto",
+        "id" : "kanto",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "tochigi"
+            },
+            {
+                "name" : "gunma"
+            },
+            {
+                "name" : "saitama"
+            },
+            {
+                "name" : "ibaraki"
+            },
+            {
+                "name" : "chiba"
+            },
+            {
+                "name" : "tokyo"
+            },
+            {
+                "name" : "kanagawa"
+            }
+        ]
+    },
+    {
+        "region" : "Kansai",
+        "id" : "kansai",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "shiga"
+            },
+            {
+                "name" : "kyoto"
+            },
+            {
+                "name" : "hyogo"
+            },
+            {
+                "name" : "nara"
+            },
+            {
+                "name" : "osaka"
+            },
+            {
+                "name" : "wakayama"
+            }
+        ]
+    },
+    {
+        "region" : "Chugoku",
+        "id" : "chugoku",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "tottori"
+            },
+            {
+                "name" : "okayama"
+            },
+            {
+                "name" : "hiroshima"
+            },
+            {
+                "name" : "shimane"
+            },
+            {
+                "name" : "yamaguchi"
+            }
+
+        ]
+    },
+    {
+        "region" : "Shikoku",
+        "id" : "shikoku",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "kagawa"
+            },
+            {
+                "name" : "tokushima"
+            },
+            {
+                "name" : "ehime"
+            },
+            {
+                "name" : "kochi"
+            }
+        ]
+    },
+    {
+        "region" : "Kyushu",
+        "id" : "kyushu",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "fukuoka"
+            },
+            {
+                "name" : "saga"
+            },
+            {
+                "name" : "oita"
+            },
+            {
+                "name" : "nagasaki"
+            },
+            {
+                "name" : "kumamoto"
+            },
+            {
+                "name" : "miyazaki"
+            },
+            {
+                "name" : "kagoshima"
+            }
+        ]
+    },
+    {
+        "region" : "Okinawa",
+        "id" : "okinawa",
+        "isActive": false,
+        "prefectures":[
+            {
+                "name" : "okinawa"
+            }
+        ]
+    }
+]
